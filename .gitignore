@@ -15,7 +15,7 @@
 
 /.project
 
-/.classpath
+*.classpath
 
 *.class
 
